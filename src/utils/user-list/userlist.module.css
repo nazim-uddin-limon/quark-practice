@@ -1,0 +1,12 @@
+.list{
+    display: flex;
+    background-color: #fff;
+    padding: 8px;
+    border-radius: 5px;
+}
+.profilePic {
+    width: 100;
+}
+.profilePic img{
+    max-width: 50px
+}

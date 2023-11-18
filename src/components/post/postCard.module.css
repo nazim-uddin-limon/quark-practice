@@ -1,0 +1,30 @@
+.postCard {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 8px 0;
+}
+.cardHeader {
+  display: flex;
+  align-items: center;
+}
+.cardHeader img {
+  max-width: 100%;
+}
+.avater {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  border: 1px solid blue;
+  overflow: hidden;
+}
+.userDetails{
+    margin-left: 15px;
+}
+.postHeaderAction{
+    margin-left: auto;
+}
+.postImage{
+  width: 100%;
+}

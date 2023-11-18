@@ -1,0 +1,23 @@
+.logo{
+    margin-left: auto;
+}
+.header{
+    display: flex;
+    background-color: #ffffff;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+
+.menu{
+    display: flex;
+    margin-left: auto;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 3px;
+    color: #292929;
+}

@@ -1,0 +1,30 @@
+.profile img {
+    max-width: 100%;
+}
+.profile {
+    width: 100%;
+}
+.imageSection{
+    text-align: center;
+    position: relative;
+}
+.coverSection img{
+    min-width: 100%;
+
+}
+.profileSection{
+    position: absolute;
+    left: calc(50% - 100px);
+    bottom: -100px;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.detailsSection{
+    margin-top: 100px;
+    text-align: center;
+}
+.academicDetails{
+    background-color: #fff;
+}

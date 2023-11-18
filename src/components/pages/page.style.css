@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+}
+.left-menu {
+  width: 30%;
+}
+.left-menu ul li {
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.left-menu ul li a{
+    text-decoration: none;
+    color: #000;
+}
+.details-section {
+  width: 50%;
+}
